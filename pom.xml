@@ -19,7 +19,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <selenide.version>5.18.0</selenide.version>
         <junit.platform.version>1.7.2</junit.platform.version>
-        <junit.jupiter.version>5.7.0</junit.jupiter.version>
+        <junit.jupiter.version>5.9.2</junit.jupiter.version>
         <junit.vintage.version>5.7.0</junit.vintage.version>
         <restAssured.version>4.2.0</restAssured.version>
         <cucumber.version>6.9.1</cucumber.version>
