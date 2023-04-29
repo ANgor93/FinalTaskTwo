@@ -33,7 +33,7 @@
         <cucumber.6.jvm.version>2.13.6</cucumber.6.jvm.version>
         <allure.version>2.13.2</allure.version>
         <allure-maven.version>2.10.0</allure-maven.version>
-        <json.version>20210307</json.version>
+        <json.version>20230227</json.version>
 
         <parallelCount>1</parallelCount>
     </properties>
