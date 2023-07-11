@@ -28,7 +28,7 @@
         <aspectj.version>1.8.10</aspectj.version>
         <owner.version>1.0.10</owner.version>
         <jsch.version>0.1.55</jsch.version>
-        <sshd-core.version>2.7.0</sshd-core.version>
+        <sshd-core.version>2.10.0</sshd-core.version>
         <allureJunit5.version>2.14.0</allureJunit5.version>
         <cucumber.6.jvm.version>2.13.6</cucumber.6.jvm.version>
         <allure.version>2.13.2</allure.version>
